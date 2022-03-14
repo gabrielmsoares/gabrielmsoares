@@ -1,5 +1,5 @@
 <h2>Hello World! 😆 </h2> 
-<h3> Olá, meu nome é Gabriel </h3>
+<h3> Olá, meu nome é Gabriel e sou estudante de programação! </h3>
 <div>
   <a href="https://github.com/gabrielmsoares">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielmsoares&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
