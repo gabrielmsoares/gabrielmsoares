@@ -1,6 +1,6 @@
 <h2>Hello World! 😆 </h2> 
 <h3> Olá, meu nome é Gabriel e sou estudante de programação! </h3>
-<h4> Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Newton Paiva, e realizando os cursos Front-End na plataforma da Alura.</h4>
+<h4> Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Newton Paiva, e realizando os cursos Back-end na plataforma da Alura.</h4>
 <div>
   <a href="https://github.com/gabrielmsoares">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielmsoares&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
