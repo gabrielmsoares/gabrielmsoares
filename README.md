@@ -15,10 +15,10 @@ Linguagens de Programação:
 
 <p align="left">
 Meus interesses pessoais:
-- 🥷🏼👨🏻‍💻 Entusiasta em Cibersegurança.
-- ✝️ Cristão.
-- ⚽ Atleticano.
-- 🎮 Jogos são meus hobbies principais.
+🥷🏼👨🏻‍💻 Entusiasta em Cibersegurança.  |
+✝️ Cristão.  |
+⚽ Atleticano.  |
+🎮 Jogos são meus hobbies principais.
 </p>
 
 <p align="left">
