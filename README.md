@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-*Olá, me chamo <strong>Gabriel</strong>. Atualmente sou Supervisor de Implantação e Analista de Suporte em uma fintech bancária.*👨🏻‍💻
+Olá, me chamo <strong>Gabriel</strong>. Atualmente sou Supervisor de Implantação e Analista de Suporte em uma fintech bancária.👨🏻‍💻
 </p>
 
 <p align="left">
@@ -15,10 +15,10 @@ Linguagens de Programação:
 
 <p align="left">
 Meus interesses pessoais:
-  - 🥷🏼👨🏻‍💻 Entusiasta em Cibersegurança.
-  - ✝️ Cristão.
-  - ⚽ Atleticano.
-  - 🎮 Jogos são meus hobbies principais.
+- 🥷🏼👨🏻‍💻 Entusiasta em Cibersegurança.
+- ✝️ Cristão.
+- ⚽ Atleticano.
+- 🎮 Jogos são meus hobbies principais.
 </p>
 
 <p align="left">
