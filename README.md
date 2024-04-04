@@ -9,21 +9,22 @@ Sobre mim: 23 anos, natual de Belo Horizonte - MG. Apaixonado por tecnologia des
 </p>
 
 <p align="left">
-Linguagens de Programação:
+Habilidades:
+HTML | CSS | Java | PHP
 
 </p>
 
 <p align="left">
 Meus interesses pessoais:
-🥷🏼👨🏻‍💻 Entusiasta em Cibersegurança.  |
-✝️ Cristão.  |
-⚽ Atleticano.  |
+🥷🏼👨🏻‍💻 Entusiasta em Cibersegurança |
+✝️ Cristão |
+⚽ Atleticano |
 🎮 Jogos são meus hobbies principais.
 </p>
 
 <p align="left">
 Dê uma olhada projeto mais recente:
-🎰<a href="https://github.com/gabrielmsoares/LotoFacil" title="Lotofacil">
+🎰 Lotofacil
 </p>
 
 <p align="left">
