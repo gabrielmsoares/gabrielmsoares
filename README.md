@@ -5,7 +5,7 @@ Olá, me chamo <strong>Gabriel</strong>. Atualmente sou Supervisor de Implantaç
 </p>
 
 <p align="left">
-Sobre mim: 23 anos, natual de Belo Horizonte - MG. Apaixonado por tecnologia desde os 09 anos, aos 13 fiz meu primeiro curso de Informática Jr. Em 2021 cursei Algoritmos e Lógica de programação na Udemy. Em 2022 pela Alura realizei dois cursos de HTML e 60% da formação em PHP. Pela Dio em 2023 conclui a formação HTML Web Developer. Atualmente, em 2024, cursando Análise e Desenvolvimento de Sistemas na faculdade Newton Paiva e realizando o curso de formação Java Developer, na Dio.
+Sobre mim: 23 anos, natural de Belo Horizonte - MG. Apaixonado por tecnologia desde os 09 anos, aos 13 fiz meu primeiro curso de Informática Jr. Em 2021 cursei Algoritmos e Lógica de programação na Udemy. Em 2022 pela Alura realizei dois cursos de HTML e 60% da formação em PHP. Pela Dio em 2023 conclui a formação HTML Web Developer. Atualmente, em 2024, cursando Análise e Desenvolvimento de Sistemas na faculdade Newton Paiva e realizando o curso de formação Java Developer, na Dio.
 </p>
 
 <p align="left">
@@ -49,7 +49,7 @@ Hello, my name is <strong>Gabriel</strong>. I am currently a Deployment Supervis
 </p>
 
 <p align="left">
-About me: 23 years old, born in Belo Horizonte - MG, Brazil. Passionate about technology since the age of 9, I took my first Junior Computing course at 13. In 2021, I took the Algorithms and Programming Logic course on Udemy. In 2022, I completed two HTML courses and 60% of the PHP formation on Alura. In 2023, I finished the HTML Web Developer formation at Dio. Currently, in 2024, I am studying Systems Analysis and Development at Newton Paiva University and taking the Java Developer formation course at Dio
+About me: 23 years old, from Belo Horizonte - MG, Brazil. Passionate about technology since the age of 9, I took my first Junior Computing course at 13. In 2021, I took the Algorithms and Programming Logic course on Udemy. In 2022, I completed two HTML courses and 60% of the PHP formation on Alura. In 2023, I finished the HTML Web Developer formation at Dio. Currently, in 2024, I am studying Systems Analysis and Development at Newton Paiva University and taking the Java Developer formation course at Dio
 </p>
 
 <p align="left">
