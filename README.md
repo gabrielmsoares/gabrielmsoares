@@ -5,7 +5,7 @@ Olá, me chamo <strong>Gabriel</strong>. Atualmente sou Supervisor de Implantaç
 </p>
 
 <p align="left">
-Sobre mim: 23 anos, natural de Belo Horizonte - MG. Apaixonado por tecnologia desde os 09 anos, aos 13 fiz meu primeiro curso de Informática Jr. Em 2021 cursei Algoritmos e Lógica de programação na Udemy. Em 2022 pela Alura realizei dois cursos de HTML e 60% da formação em PHP. Pela Dio em 2023 conclui a formação HTML Web Developer. Atualmente, em 2024, cursando Análise e Desenvolvimento de Sistemas na faculdade Newton Paiva e realizando o curso de formação Java Developer, na Dio.
+Sobre mim: 23 anos, natural de Belo Horizonte - MG. Apaixonado por tecnologia desde os 09 anos, aos 13 fiz meu primeiro curso de Informática Jr. Em 2021 cursei Algoritmos e Lógica de programação na Udemy. Em 2022 pela Alura realizei dois cursos de HTML e 60% da formação em PHP. Pela Dio em 2023 conclui a formação HTML Web Developer. Atualmente, em 2024, cursando Análise e Desenvolvimento de Sistemas na faculdade Newton Paiva e realizando os cursos de formação Java Developer e Santander Bootcamp Backend com Java, na Dio.
 </p>
 
 <p align="left">
