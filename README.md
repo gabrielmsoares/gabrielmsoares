@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Olá, me chamo <strong>Gabriel</strong>. Atualmente sou Supervisor de Implantação e Analista de Suporte em uma fintech bancária.👨🏻‍💻
+Olá, me chamo <strong>Gabriel</strong>.👨🏻‍💻
 </p>
 
 <p align="left">
@@ -45,7 +45,7 @@ Dê uma olhada projeto mais recente:
 <details><summary><strong>English</strong></summary>
   
 <p align="left"> 
-Hello, my name is <strong>Gabriel</strong>. I am currently a Deployment Supervisor and Support Analyst at a banking fintech.👨🏻‍💻
+Hello, my name is <strong>Gabriel</strong>.👨🏻‍💻
 </p>
 
 <p align="left">
